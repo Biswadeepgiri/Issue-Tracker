@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import AddIssue from "./components/AddIssue/AddIssue.js";
 import CurrentIssue from "./components/CurrentIssue/CurrentIssue.js";
 
